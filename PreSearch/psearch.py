@@ -27,7 +27,7 @@ def search(headers, data):
         header (dict): bearer token
         data (str): paramters passing to API
 
-    Results:
+    Returns:
         list of dict: json data of tweets
         next: token for next page
 

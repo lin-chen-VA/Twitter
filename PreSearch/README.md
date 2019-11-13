@@ -25,7 +25,7 @@
 
 ## Download Twitter
 1. Standard
-> Free, 7 days
+> Free, 7 days, up to 2,655 tweets
 2. Premium
 > 30 days, free, up to 3,000 tweets
 > from 2006, paid, # of limits is unknown
